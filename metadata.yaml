@@ -1,10 +1,8 @@
 _repo: The-Last-Chronicle-of-Barset_3045
-_version: 0.1.0
+_version: 0.2.0
 covers:
-- cover_type: archival
-  image_path: 3045/3045-h/images/frontis1-t.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -16,6 +14,8 @@ creator:
 description: "The Last Chronicle of Barset is a novel by Anthony Trollope, published\
   \ in 1867. It is the final book of a series of six, often referred to collectively\
   \ as the Chronicles of Barsetshire.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3045#The-Last-Chronicle-of-Barset
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
